@@ -1,0 +1,19 @@
+Criando o compilador de typescript
+
+-> adicionar o tsconfig.ts já configurado
+-> npm init
+-> npm i typescript
+-> adicionar o seguinte comando "build": "npx tsc --build" no script do arquivo package.json
+-> criar a pasta src
+-> criar um arquivo index.ts na pasta src
+-> npm run build
+
+Creating the typescript compiler
+
+-> add the already configured tsconfig
+-> npm init
+-> npm i typescript
+-> add the command "build": "npx tsc --build" in the package.json file script
+-> create src folder
+-> create an index.ts file in the src folder
+-> npm run build
